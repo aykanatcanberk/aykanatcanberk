@@ -6,4 +6,10 @@
 
 🚀 I enjoy collaborating on open-source projects and continuously learning new tools and methodologies to improve my craft.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aykanatcanberk/)
+
+
+
+
+
 
