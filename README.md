@@ -61,14 +61,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats & Profile Views
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aykanatcanberk&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykanatcanberk&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aykanatcanberk&color=00B2FF&style=flat-square" alt="Profile Views" />
-</p>
