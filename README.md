@@ -83,9 +83,6 @@
     <a href="https://www.hackerrank.com/aykanatcanberk" target="blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
     </a>
-    <a href="mailto:canberkaykanat@hotmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
   </p>
 
 </div>
